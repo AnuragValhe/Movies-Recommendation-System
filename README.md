@@ -3,12 +3,7 @@
 This is a content-based Movie Recommendation System built using Natural Language Processing (NLP) techniques and deployed via a user-friendly Streamlit web application. The system recommends movies similar to a user-selected movie by analyzing key textual features such as cast, crew, genre, and overview. Additionally, it enhances the user experience by displaying movie posters, dynamically fetched using the TMDb API.
 
 ---
-<h3 align="center">App Preview</h3>
-
-<p align="center">
-  <img src="appscreenshot.png" alt="App Screenshot" width="600"/>
-</p>
-
+![App Screenshot](appscreenshot.png)
 
 ## 📌 Features
 
